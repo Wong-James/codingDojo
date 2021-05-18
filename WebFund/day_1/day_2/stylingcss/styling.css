@@ -1,0 +1,22 @@
+h1{
+    color: white;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
+span{
+    color: #00ffff;
+}
+h2{
+    background-color: #663399;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-style: italic;
+}
+h3{
+    background-color: #9fc5f8;
+    padding: 5px;
+    text-align: right;
+    text-decoration: underline;
+}
