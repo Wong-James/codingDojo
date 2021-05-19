@@ -1,0 +1,31 @@
+img.octocat {
+    height: 200px;
+    margin: 15px;
+}
+.container{
+    
+    height: 500px;
+    width: 500px;
+}
+.top-row{
+    width: 800px;
+    background-color: rebeccapurple;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.mid-row{
+    width: 800px;
+    background-color: plum;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.bot-row{
+    width: 800px;
+    background-color: palevioletred;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
