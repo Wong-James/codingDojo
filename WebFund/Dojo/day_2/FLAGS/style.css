@@ -1,0 +1,13 @@
+.background{
+    width: 1000px;
+    height: 600px;
+    background-color: black;
+    padding: 5px;
+}
+
+.whiteline{
+    background-color: white;
+    width: 1000px;
+    height: 5%;
+    margin-top: 35px;
+}
