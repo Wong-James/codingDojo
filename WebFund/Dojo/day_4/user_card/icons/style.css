@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 650px;
+    
+}
+.header{
+    background-color: #17a2b8 ;
+    height: 75px;
+}
+.body{
+    padding: 20px;
+    padding-top: 50px;
+    border: 5px;
+    border: solid;
+    border-color: lightgray;
+    border-top: none; 
+}
+.location{
+    position: relative;
+    top: 10px;
+}
+.losa{
+    margin-left: 25px;
+    position: relative;
+    bottom: 10px;
+}
+img.prof{
+    width: 100px;
+}
+img.icon{
+    margin-right: 10px;
+    width: 20px;
+}
+img.prof{
+    margin-left: 22px;
+    position: relative;
+    top: 20px
+}
