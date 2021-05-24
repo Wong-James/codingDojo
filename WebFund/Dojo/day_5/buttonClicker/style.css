@@ -1,0 +1,12 @@
+button{
+    background-color: black;
+    color: whitesmoke;
+}
+.big{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    height: 250px;
+    width: 500px;
+    background-color: teal;
+}
